@@ -15,7 +15,7 @@ def calcula_grado(grado):
     return nota
 
 def main():
-    x = float(input("Ingresa un valor entre 0.0 y 1.0:"))
+    x = float(input("Ingresa Un valor entre 0.0 y 1.0: "))
     print(calcula_grado(x))
 
 if __name__ == '__main__':
